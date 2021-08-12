@@ -1,6 +1,8 @@
 baseURL: "https://techietest.github.io"
 languageCode: "en-us"
 title: "Hugo-profile"
+theme: "./.."
+relativeURLs: true
 
 googleanalytics: UA-167646412-8
 disqusShortname: 
